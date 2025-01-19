@@ -1,5 +1,5 @@
 # mern-user-app
-mern-user-app
+
 
 git clone https://github.com/saulitalja/mern-user-app.git
 
